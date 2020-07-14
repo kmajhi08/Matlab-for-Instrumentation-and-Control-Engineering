@@ -1,0 +1,5 @@
+Matlab for instrumentation and control:
+1. Create a transferfunction.
+2. Check stablity of mechanical system
+3. Solve block diagram on matlab
+4. Draw 2d and 3d graphs
